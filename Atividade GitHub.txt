@@ -1,3 +1,7 @@
 Bom dia
+<<<<<<< main
+Boa tarde
+=======
 Boa tarde
 Boa noite
+>>>>>>> develop

@@ -1,2 +1,3 @@
-Bom dia
-Boa tarde
+Bom dia!
+Boa tarde!
+Boa noite!

@@ -1,0 +1,56 @@
+body {
+    background-color: #f0f0f0;
+    
+}
+h2 {
+    color: darkblue;
+    font-size: 60px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+form {
+    color: rgb(227, 10, 162);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+table {
+    color: rgb(123, 6, 233);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+ table{
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table, th, td{
+            border: 1px solid black;
+        }
+
+        th{
+            background-color: #ffffff;
+        }
+        
+
+        th, td{
+            padding: 10px;
+            text-align: left;
+        }
+        
+#tituloPrincipal { color: rgb(30, 0, 128);}
+
+
+img {
+            margin-top: 20px;
+            width: 200px;
+        }
+
+.imagem01{
+    text-align: center;
+}
